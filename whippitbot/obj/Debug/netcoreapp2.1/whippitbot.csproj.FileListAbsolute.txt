@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.csprojAssemblyReference.cache
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.AssemblyInfo.cs
+C:\Users\User\source\repos\whippitbot\whippitbot\bin\Debug\netcoreapp2.1\whippitbot.deps.json
+C:\Users\User\source\repos\whippitbot\whippitbot\bin\Debug\netcoreapp2.1\whippitbot.runtimeconfig.json
+C:\Users\User\source\repos\whippitbot\whippitbot\bin\Debug\netcoreapp2.1\whippitbot.runtimeconfig.dev.json
+C:\Users\User\source\repos\whippitbot\whippitbot\bin\Debug\netcoreapp2.1\whippitbot.dll
+C:\Users\User\source\repos\whippitbot\whippitbot\bin\Debug\netcoreapp2.1\whippitbot.pdb
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.dll
+C:\Users\User\source\repos\whippitbot\whippitbot\obj\Debug\netcoreapp2.1\whippitbot.pdb

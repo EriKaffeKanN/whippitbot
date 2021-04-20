@@ -25,7 +25,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.emzi0767.com/api/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
@@ -41,10 +42,26 @@
       "frameworks": {
         "netcoreapp2.1": {
           "dependencies": {
+            "DSharpPlus": {
+              "target": "Package",
+              "version": "[4.0.0-nightly-00831, )"
+            },
+            "DSharpPlus.CommandsNext": {
+              "target": "Package",
+              "version": "[4.0.0-nightly-00831, )"
+            },
+            "DSharpPlus.Interactivity": {
+              "target": "Package",
+              "version": "[4.0.0-nightly-00831, )"
+            },
             "Microsoft.NETCore.App": {
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

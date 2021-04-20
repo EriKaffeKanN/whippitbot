@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Net;
 
 namespace whippitbot
 {
@@ -6,7 +7,8 @@ namespace whippitbot
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var bot = new Bot();
+            bot.RunAsync().GetAwaiter().GetResult();
         }
     }
 }
